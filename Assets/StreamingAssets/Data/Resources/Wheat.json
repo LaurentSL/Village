@@ -1,0 +1,6 @@
+{
+    "name":"Wheat",
+    "description":"Wheat is produced on farmland, harvested when ripe and then sent to the windmills for flour production.",
+    "type":"Food",
+    "building needed":"Farmland",
+}

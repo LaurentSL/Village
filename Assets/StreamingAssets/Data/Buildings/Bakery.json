@@ -1,0 +1,11 @@
+{
+    "name":"Bakery",
+    "description":"Bakery is one of the Buildings in Foundation. It is important to fulfill the population's needs.
+Assigned citizens produce Bread from Flour and Water .",
+    "type":"Food",
+    "resources needed":["Flour", "Water"],
+    "worker capacity":"2",
+    "build rights tax":"300",
+    "maintenance":"3",
+    "materials":["Planks(20)", "Stone(20)", "Tools(20)"]
+}

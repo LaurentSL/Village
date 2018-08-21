@@ -1,0 +1,12 @@
+{
+    "name":"Tools",
+    "description":"Tools are used as a resource for building certain Buildings. In the current alpha (0.1.33.b) the only way to get Tools is through Trading.
+They are currently used in the construction of the following buildings:
+Woodcutter Camp (5)
+Stonecutter Camp (5)
+Farm (10)
+Windmill (10)
+Bakery (10
+Sheep Farm (10)",
+    "type":"Building"
+}

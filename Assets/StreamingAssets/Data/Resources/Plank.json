@@ -1,0 +1,13 @@
+{
+    "name":"Plank",
+    "description":"A plank is a resource that can be made from Wood in a Sawmill.
+It is currently used in the construction of the following buildings:
+Warehouse (15)
+Windmill (10)
+Bakery (20)
+Forester Camp (10)
+Planks are also used for the construction and the upgrading of houses. They can also be traded via Trade Routes.",
+    "type":"Building",
+    "resources needed":["Wood"],
+    "building needed":"Sawmill",
+}

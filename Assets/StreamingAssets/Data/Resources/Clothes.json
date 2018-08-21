@@ -1,0 +1,8 @@
+{
+    "name":"Clothes",
+    "description":"Clothes is produced from 2xwool in the Weaver Hut. It is consumed by people ranked "Villiger" or higher.",
+    "type":"Other",
+    "resources needed":["Wool", "Wool"],
+    "building needed":"Weaver Hut",
+    "consumed by":"Citizen"
+}

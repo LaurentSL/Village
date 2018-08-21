@@ -1,0 +1,14 @@
+{
+    "name":"Stone",
+    "description":"Stone is produced by the Stonecutter Camp from a Quarry.
+It is currently used in the construction of the following buildings:
+Sawmill (10)
+Well (5)
+Warehouse (5)
+Windmill (10)
+Bakery (20)
+Sheep Farm (20)
+Stone is also used for the construction and the upgrading of houses. They can also be traded via Trade Routes.",
+    "type":"Building",
+    "building needed":"Stonecutter Camp",
+}

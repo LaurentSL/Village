@@ -1,0 +1,6 @@
+{
+    "name":"Water",
+    "description":"Water is a basic resource. In its pure form it's consumed by all citizens. It is needed to bake bread, brew beer and much more!",
+    "type":"Food",
+    "consumed by":"All"
+}

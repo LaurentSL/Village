@@ -1,0 +1,7 @@
+{
+    "name":"Wood",
+    "description":"Wood is a basic resource, nearly found everywhere. 
+It's a regrowing resource. In a certain radius, the Woodcutter Camps cut down the trees and then send them to the sawmill to produce planks. 
+These then can be used by carpenters.",
+    "type":"Building"
+}

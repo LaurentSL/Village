@@ -1,0 +1,6 @@
+{
+    "name":"Flour",
+    "description":"Flour is produced by the Windmills and it's needed in the Bakery to bake bread.",
+    "building needed":"Windmills",
+    "type":"Food"
+}

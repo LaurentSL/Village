@@ -1,0 +1,7 @@
+{
+    "name":"Berrie",
+    "description":"Berries are gathered from mushrooms marked with an extraction zone by workers from a Gathering Camp. They are consumed by all citizens. They are sold at a market.",
+    "type":"Food",
+    "building needed":"Gathering Camp",
+    "consumed by":"All"
+}

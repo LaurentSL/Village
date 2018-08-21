@@ -1,0 +1,5 @@
+{
+    "name":"Glass",
+    "description":"Glass is used as a resource for building certain Buildings. In the current alpha (0.1.34.h) the only way to get it is through Trading.",
+    "type":"Building"
+}

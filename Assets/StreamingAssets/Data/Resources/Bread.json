@@ -1,0 +1,8 @@
+{
+    "name":"Bread",
+    "description":"Bread is produced from flour and water in the Bakery. Bread is consumed by citizens ranked Serf or higher.",
+    "type":"Food",
+    "resources needed":["Flour", "Water"],
+    "building needed":"Bakery",
+    "consumed by":"Serf"
+}
